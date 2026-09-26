@@ -24,6 +24,6 @@ All data is stored in `localStorage` under the key prefix `palengke_cainta_v4`.
 - Customer order tracking
 - Admin dashboard — add/edit/delete products and orders, view deletion audit log
 - Customer notifications when pre-order items become available
-- All data persisted in `localStorage` (no backend required)
+
 
 
